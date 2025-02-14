@@ -1,15 +1,14 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+Juan Pablo Castillo Haros
+14/2/2025
+
 """
+#Entradas
 
-# Declaraciones
-CONSTANTE = valor
+nombre =input('"como te llamas?')
+#Proceso
 
-# Entradas
-entrada = input()
+saludo = "Hola, " + nombre 
+#Salidas
 
-# Proceso
-
-
-# Salidas
-print(salida)
+print(saludo + ".")
